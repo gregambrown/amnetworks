@@ -23,7 +23,7 @@ jobs:
 
       # 4. Build the web release
       - name: Build Web Release
-        run: flutter build web --release --base-href "/<REPO>/"
+        run: flutter build web --release --base-href "/amnetworks/"
 
       # 5. Deploy to GitHub Pages (gh-pages branch)
       - name: Deploy to GitHub Pages
