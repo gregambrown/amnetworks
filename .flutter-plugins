@@ -1,0 +1,13 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/amcreative/.pub-cache/hosted/pub.dev/cloud_firestore-5.6.7/
+cloud_firestore_web=/Users/amcreative/.pub-cache/hosted/pub.dev/cloud_firestore_web-4.4.7/
+cloud_functions=/Users/amcreative/.pub-cache/hosted/pub.dev/cloud_functions-5.5.0/
+cloud_functions_web=/Users/amcreative/.pub-cache/hosted/pub.dev/cloud_functions_web-4.11.0/
+firebase_core=/Users/amcreative/.pub-cache/hosted/pub.dev/firebase_core-3.13.0/
+firebase_core_web=/Users/amcreative/.pub-cache/hosted/pub.dev/firebase_core_web-2.22.0/
+firebase_storage=/Users/amcreative/.pub-cache/hosted/pub.dev/firebase_storage-12.4.5/
+firebase_storage_web=/Users/amcreative/.pub-cache/hosted/pub.dev/firebase_storage_web-3.10.12/
+video_player=/Users/amcreative/.pub-cache/hosted/pub.dev/video_player-2.9.5/
+video_player_android=/Users/amcreative/.pub-cache/hosted/pub.dev/video_player_android-2.8.2/
+video_player_avfoundation=/Users/amcreative/.pub-cache/hosted/pub.dev/video_player_avfoundation-2.7.1/
+video_player_web=/Users/amcreative/.pub-cache/hosted/pub.dev/video_player_web-2.3.5/
